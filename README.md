@@ -1,6 +1,6 @@
 # M3TextUserInterfaceFileProcessor
 
-# Refactoring Plan and Class Improvements
+# Refactoring Plan and Class Improvements (By James Haimoff, Daniel Davis, and Christian Abrimian)
 
 ## Identify areas of your code that need improvement by breaking it into smaller, more specialized pieces (refactoring)
 
