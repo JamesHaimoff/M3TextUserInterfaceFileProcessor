@@ -37,7 +37,11 @@ Furthermore with statistics class we are facing similar issues. This class has t
 
 
 
-Screenshots of Code Performance and Output 
+Screenshots of Code Performance and Output and UML
+![src](https://github.com/user-attachments/assets/ef299337-084e-433b-9ce5-83de96ea10d9)
+
+
+
 ![Screenshot 2024-11-26 131830](https://github.com/user-attachments/assets/7c01d93f-2874-4ea2-8107-7a75de3e0bb6)
 
 ![Screenshot 2024-11-26 120901](https://github.com/user-attachments/assets/fa6ebff2-a081-489c-8e91-08d98b4868e0)
